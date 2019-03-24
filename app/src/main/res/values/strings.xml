@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Busy</string>
+    <string name="student">Student</string>
+    <string name="button">Admin</string>
+</resources>
